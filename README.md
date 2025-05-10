@@ -1,11 +1,4 @@
-repository links
-justo:
-quiapo:
-barrientos:
-miraflores:
-jabonite:
-gelira:
-
+repository links: https://github.com/furanshitsu/ELPHP_Libertas_SAT-1-30AM-1-30PM
 test case: https://docs.google.com/document/d/1XLPuS2TGeztw4xnpjMiVgbL10xFG3d2yejPcQB_WdkQ/edit?usp=drive_link
 document link: https://docs.google.com/document/d/1b2BT8rbqTYs7DX59jUhkTlfUfGR0afqSqGrzOyj_mzY/edit?tab=t.0
 title: Libertas - Blogging Web System
